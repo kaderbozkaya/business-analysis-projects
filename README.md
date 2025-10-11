@@ -6,7 +6,9 @@
 This project analyzes the Amazon e-commerce experience from a business analysis perspective, including persona creation, user story mapping, and mockup design.
 
 ### Persona 1 – E-Commerce & Platform Manager
-![Persona 1](./persona-ecommerce-manager.png)
+
+<img src="./Persona4.png" alt="Persona 1" width="200"/>
+
 📎 [View full Figma design](https://www.canva.com/design/DAGglpKLgJc/GOH18RI9T_xHAcyvJLsw8g/view)
 
 
