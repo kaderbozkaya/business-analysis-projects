@@ -19,5 +19,5 @@ This map helped structure the product backlog and identify core functionalities 
 
 <img src="/amazon-story-map.png" alt="User Story Map" width="400"/>
 
-📎 [View full Figma design](https://www.figma.com/design/JaBpx4Qn009EzlkUhKkGoh/User-Story-Mapping--Copy-?node-id=35692-13101&p=f&t=3IKb7vyHQZ2tbEM7-0)
+📎 [View full Figma design]([https://www.figma.com/design/JaBpx4Qn009EzlkUhKkGoh/User-Story-Mapping--Copy-?node-id=35692-13101&p=f&t=3IKb7vyHQZ2tbEM7-0](https://www.figma.com/design/JaBpx4Qn009EzlkUhKkGoh/User-Story-Mapping--Copy-?node-id=35652-5047&p=f&t=ca7rL0HuuV73nCPr-0))
 
