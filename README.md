@@ -90,7 +90,7 @@ This map helped structure the product backlog and identify core functionalities 
 
 <img src="/amazon-story-map.png" alt="User Story Map" width="400"/>
 
-📎 [View full Figma design](https://www.figma.com/design/JaBpx4Qn009EzlkUhKkGoh/User-Story-Mapping--Copy-?node-id=35652-5047&p=f&t=ca7rL0HuuV73nCPr-0))
+📎 [View full Figma design](https://www.figma.com/design/JaBpx4Qn009EzlkUhKkGoh/User-Story-Mapping--Copy-?node-id=35652-5047&p=f&t=ca7rL0HuuV73nCPr-0)
 
 ###  User Journey Flow – Amazon Best Sellers
 
@@ -100,7 +100,7 @@ I focused on how users discover top products, build trust through reviews, and q
 
 <img src="/amazon-user-journey.png" alt="User Journey Flow" width="400"/>
 
-📎 [View full Miro design](https://miro.com/app/board/uXjVI9uu4dA=/))
+📎 [View full Miro design](https://miro.com/app/board/uXjVI9uu4dA=/)
 
 ### Amazon - Site Map
 I created a **Site Map** to outline the structural hierarchy of the Amazon e-commerce website.  
