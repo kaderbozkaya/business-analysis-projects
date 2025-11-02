@@ -72,14 +72,14 @@ Focuses on improving performance, enhancing user experience, and ensuring compli
 Provides insights into technical, analytical, and communication challenges in large-scale e-commerce environments.  
 
 
-<img src="./Persona4.png" alt="Persona 1" width="200"/>
+<img src="./Persona4.png" alt="Persona" width="200"/>
 
 ## 👤 Persona 2 – E-Commerce Entrepreneur  
 
 I created this persona to represent a professional seller aiming to grow his brand on Amazon.  
 Mehmet Yılmaz is motivated to expand globally, increase sales, and achieve financial independence through online business.  
 This persona helped me understand user motivations, challenges, and decision-making patterns in the Amazon selling journey.  
-<img src="./Persona4.png" alt="Persona 1" width="200"/>
+<img src="./Mehmet Yılmaz,E-ticaret Girişimcisi.png" alt="Persona" width="200"/>
   
 
 ### User Story Map - Amazon
@@ -90,7 +90,7 @@ This map helped structure the product backlog and identify core functionalities 
 
 <img src="/amazon-story-map.png" alt="User Story Map" width="400"/>
 
-📎 [View full Figma design](https://www.figma.com/design/JaBpx4Qn009EzlkUhKkGoh/User-Story-Mapping--Copy-?node-id=35692-13101&p=f&t=3IKb7vyHQZ2tbEM7-0](https://www.figma.com/design/JaBpx4Qn009EzlkUhKkGoh/User-Story-Mapping--Copy-?node-id=35652-5047&p=f&t=ca7rL0HuuV73nCPr-0))
+📎 [View full Figma design](https://www.figma.com/design/JaBpx4Qn009EzlkUhKkGoh/User-Story-Mapping--Copy-?node-id=35652-5047&p=f&t=ca7rL0HuuV73nCPr-0))
 
 ###  User Journey Flow – Amazon Best Sellers
 
@@ -98,9 +98,9 @@ This map helped structure the product backlog and identify core functionalities 
 I designed a **User Journey Flow** for the **Amazon Best Sellers** section.  
 I focused on how users discover top products, build trust through reviews, and quickly complete purchases.
 
-<img src="/amajon-user-journey.png" alt="User Journey Flow" width="400"/>
+<img src="/amazon-user-journey.png" alt="User Journey Flow" width="400"/>
 
-📎 [View full Figma design](https://www.canva.com/design/DAGglpKLgJc/GOH18RI9T_xHAcyvJLsw8g/view](https://miro.com/app/board/uXjVI9uu4dA=/))
+📎 [View full Miro design](https://miro.com/app/board/uXjVI9uu4dA=/))
 
 ### Amazon - Site Map
 I created a **Site Map** to outline the structural hierarchy of the Amazon e-commerce website.  
@@ -109,5 +109,5 @@ This visualization ensured clear information architecture and intuitive navigati
 <img src="/amazon-site-map.png" alt="User Journey Flow" width="400"/>
 
 
-📎 [View full Figma design](https://miro.com/app/board/uXjVI6ERKC4=/)
+📎 [View full Miro design](https://miro.com/app/board/uXjVI6ERKC4=/)
 
