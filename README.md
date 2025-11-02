@@ -76,9 +76,8 @@ Provides insights into technical, analytical, and communication challenges in la
 
 ## 👤 Persona 2 – E-Commerce Entrepreneur  
 
-I created this persona to represent a professional seller aiming to grow his brand on Amazon.  
-Mehmet Yılmaz is motivated to expand globally, increase sales, and achieve financial independence through online business.  
-This persona helped me understand user motivations, challenges, and decision-making patterns in the Amazon selling journey.  
+Represents a seller focused on growing their brand and achieving financial independence through global expansion.  
+Helps identify key motivations, challenges, and decision-making patterns in the Amazon selling experience.  
 <img src="./Mehmet Yılmaz,E-ticaret Girişimcisi.png" alt="Persona" width="200"/>
   
 
